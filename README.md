@@ -7,7 +7,7 @@ I'm a software developer specializing in backend development. I love building ba
 - [Website-monitor](https://github.com/sabrahermassi/Website-monitor): check the status and activity of websites and store the results in a db for easy access and analysis
 
 ## 🌱 What I'm learning
-- Python
+- Python (More practice)
 - Postgresql, SQL
 - Apache Kafka
 - Data engineering
