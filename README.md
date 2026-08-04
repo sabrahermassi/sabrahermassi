@@ -1,16 +1,26 @@
 ## Hi there, I'm Sabra 👋
 
-I'm a software developer specializing in backend development. I love building backend applications and learning new technologies.
+I'm a Senior Full-Stack Software Engineer with 8+ years of experience building scalable backend systems, cloud-native applications, and serverless architectures.
 
+My main focus is backend development, distributed systems, APIs, and cloud infrastructure, while also building end-to-end applications with modern frontend technologies.
+
+I enjoy designing reliable systems, learning new technologies, and building projects that combine software engineering with AI and data.
 ## 🔭 What I'm working on
+- AI Injury Extractor []: An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
+- Personal Injury Tracker — A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
+
+- [AI Injury Extractor](https://github.com/sabrahermassi/ai-injury-extractor): An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
+- [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal): A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
 - [weather-data-collection-and-analysis](https://github.com/sabrahermassi/weather-data-collection-and-analysis): Weather data collection, storage, analysis and visualization.
 - [Website-monitor](https://github.com/sabrahermassi/Website-monitor): check the status and activity of websites and store the results in a db for easy access and analysis
 
 ## 🌱 What I'm learning
-- Python (More practice)
-- Postgresql, SQL
-- Apache Kafka
-- Data engineering
+- AI Engineering and LLM applications
+- AWS Serverless Architecture
+- Terraform and Infrastructure as Code
+- Typescript backend development
+- PostgreSQL and advanced SQL
+- Apache Kafka and event-driven systems
 
 ## 👯 Looking to collaborate on
 - Open source projects related to Python development, databases and data engineering
@@ -21,19 +31,19 @@ I'm a software developer specializing in backend development. I love building ba
 - LinkedIn: https://www.linkedin.com/in/sabra-hermassi/
 
 ## 🛠 Languages and Tools
-![Python](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-FF7F50?style=flat-square&logo=data-engineer&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## ⚡ Fun fact
 I love traveling and acrylic painting when I'm not coding.
