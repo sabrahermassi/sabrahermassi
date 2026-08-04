@@ -1,14 +1,7 @@
 ## Hi there, I'm Sabra 👋
+Senior Full-Stack Software Engineer with 10+ years of experience building scalable backend systems, cloud-native applications, APIs, and AI-powered solutions.
 
-I'm a Senior Full-Stack Software Engineer with 8+ years of experience building scalable backend systems, cloud-native applications, and serverless architectures.
-
-My main focus is backend development, distributed systems, APIs, and cloud infrastructure, while also building end-to-end applications with modern frontend technologies.
-
-I enjoy designing reliable systems, learning new technologies, and building projects that combine software engineering with AI and data.
 ## 🔭 What I'm working on
-- AI Injury Extractor []: An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
-- Personal Injury Tracker — A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
-
 - [AI Injury Extractor](https://github.com/sabrahermassi/ai-injury-extractor): An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
 - [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal): A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
 - [weather-data-collection-and-analysis](https://github.com/sabrahermassi/weather-data-collection-and-analysis): Weather data collection, storage, analysis and visualization.
