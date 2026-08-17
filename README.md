@@ -8,17 +8,18 @@ Senior Full-Stack Software Engineer with 10+ years of experience building scalab
 - [weather-data-collection-and-analysis](https://github.com/sabrahermassi/weather-data-collection-and-analysis): Weather data collection, storage, analysis and visualization.
 - [Website-monitor](https://github.com/sabrahermassi/Website-monitor): check the status and activity of websites and store the results in a db for easy access and analysis
 
-## 🌱 What I'm learning
-- AI Engineering and LLM applications
-- AWS Serverless Architecture
-- Terraform and Infrastructure as Code
-- Typescript backend development
-- PostgreSQL and advanced SQL
-- Apache Kafka and event-driven systems
+## 🧠 Areas of focus
+- AI Engineering & LLM Systems
+- RAG, embeddings & semantic search
+- Agentic AI & workflow orchestration
+- AI evaluation & observability
+- Cloud & serverless architecture
+- Distributed and event-driven systems
 
 ## 👯 Looking to collaborate on
-- Open source projects related to Python development, databases and data engineering
-- Any interesting side projects or hackathons
+- Open source projects related to AI Engineering, LLMs, RAG, and developer tools
+- Interesting AI side projects and hackathons
+- Projects exploring practical applications of AI in real-world systems
 
 ## 📫 How to reach me
 - Email: sabra.herm@gmail.com
@@ -32,9 +33,17 @@ Senior Full-Stack Software Engineer with 10+ years of experience building scalab
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+![LLM](https://img.shields.io/badge/-LLM%20Applications-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-6C47FF?style=flat-square)
+![Embeddings](https://img.shields.io/badge/-Embeddings-FF6F00?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
