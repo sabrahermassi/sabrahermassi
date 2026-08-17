@@ -2,6 +2,7 @@
 Senior Full-Stack Software Engineer with 10+ years of experience building scalable backend systems, cloud-native applications, APIs, and AI-powered solutions.
 
 ## 🔭 What I'm working on
+- [AI Injury Journal](https://github.com/sabrahermassi/injury-journal-ai): An AI-powered injury journal assistant exploring RAG, embeddings, semantic search, agent orchestration, safety guardrails, evaluation, and AI observability.
 - [AI Injury Extractor](https://github.com/sabrahermassi/ai-injury-extractor): An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
 - [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal): A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
 - [weather-data-collection-and-analysis](https://github.com/sabrahermassi/weather-data-collection-and-analysis): Weather data collection, storage, analysis and visualization.
