@@ -2,9 +2,20 @@
 Senior Full-Stack Software Engineer with 10+ years of experience building scalable backend systems, cloud-native applications, APIs, and AI-powered solutions.
 
 ## 🔭 What I'm working on
+- [Personal Injury AI](https://github.com/sabrahermassi/injury_journal): An AI-powered personal injury management platform that brings together injury tracking, AI-powered information extraction, semantic search, and a conversational assistant grounded in the user's own health history.
+
+The project combines:
+--> Injury tracking - symptoms, treatments, medical history, and doctor visits
+--> AI-powered extraction - transforming unstructured injury notes into structured information using LLMs
+--> AI assistant & RAG - semantic search and retrieval over personal injury history
+--> Grounded responses - contextual answers with citations back to the user's own entries
+--> AI infrastructure - embeddings, vector search, orchestration, safety guardrails, evaluation, and observability
+
+The project evolved from three separate applications into a single integrated platform. The original repositories remain available as part of the development history:
 - [AI Injury Journal](https://github.com/sabrahermassi/injury-journal-ai): An AI-powered injury journal assistant exploring RAG, embeddings, semantic search, agent orchestration, safety guardrails, evaluation, and AI observability.
 - [AI Injury Extractor](https://github.com/sabrahermassi/ai-injury-extractor): An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
 - [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal): A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
+
 - [weather-data-collection-and-analysis](https://github.com/sabrahermassi/weather-data-collection-and-analysis): Weather data collection, storage, analysis and visualization.
 - [Website-monitor](https://github.com/sabrahermassi/Website-monitor): check the status and activity of websites and store the results in a db for easy access and analysis
 
