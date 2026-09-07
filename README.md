@@ -2,20 +2,24 @@
 Senior Full-Stack Software Engineer with 10+ years of experience building scalable backend systems, cloud-native applications, APIs, and AI-powered solutions.
 
 ## 🔭 What I'm working on
-### 🩹 [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal)
-An AI-powered personal injury management platform combining:
-- Injury tracking - symptoms, treatments, medical history, and doctor visits
-- AI extraction - turning unstructured injury notes into structured information using LLMs
-- AI assistant & RAG - semantic search and retrieval over personal injury history
-- Grounded answers - contextual responses with citations to the user's own entries
-- AI infrastructure - embeddings, vector search, orchestration, safety guardrails, evaluation, and observability
+### 🩹 [AI-Powered Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal)
+An AI-powered personal injury tracking platform combining:
+**- Injury tracking** - symptoms, treatments, medical history, and doctor visits
+**- AI extraction** - turning unstructured injury notes into structured information using LLMs
+**- AI assistant & RAG** - semantic search and retrieval over personal injury history
+**- Grounded answers** - contextual responses with citations to the user's own entries
+**- AI infrastructure** - embeddings, vector search, orchestration, safety guardrails, evaluation, and observability
 
 The project evolved from three separate applications into a single integrated platform. The original repositories remain available as part of the development history:
 - [AI Injury Journal](https://github.com/sabrahermassi/injury-journal-ai): An AI-powered injury journal assistant exploring RAG, embeddings, semantic search, agent orchestration, safety guardrails, evaluation, and AI observability.
 - [AI Injury Extractor](https://github.com/sabrahermassi/ai-injury-extractor): An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
 - [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal): A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
 
-### 🌦️Other projects
+### 🧴 [Skincare Recommendation](https://github.com/sabrahermassi/skincare-recommendation)
+An AI-powered skincare app that analyzes product ingredients to help users understand how compatible a product appears with their skin and identify potential ingredient-related concerns.
+The app supports informed decisions without diagnosing, prescribing, or guaranteeing outcomes.
+
+**🌦️Other projects**
 - [weather-data-collection-and-analysis](https://github.com/sabrahermassi/weather-data-collection-and-analysis): Weather data collection, storage, analysis and visualization.
 - [Website-monitor](https://github.com/sabrahermassi/Website-monitor): check the status and activity of websites and store the results in a db for easy access and analysis
 
