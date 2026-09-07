@@ -4,11 +4,11 @@ Senior Full-Stack Software Engineer with 10+ years of experience building scalab
 ## 🔭 What I'm working on
 ### 🩹 [AI-Powered Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal)
 An AI-powered personal injury tracking platform combining:
-**- Injury tracking** - symptoms, treatments, medical history, and doctor visits
-**- AI extraction** - turning unstructured injury notes into structured information using LLMs
-**- AI assistant & RAG** - semantic search and retrieval over personal injury history
-**- Grounded answers** - contextual responses with citations to the user's own entries
-**- AI infrastructure** - embeddings, vector search, orchestration, safety guardrails, evaluation, and observability
+- **Injury tracking** - symptoms, treatments, medical history, and doctor visits
+- **AI extraction** - turning unstructured injury notes into structured information using LLMs
+- **AI assistant & RAG** - semantic search and retrieval over personal injury history
+- **Grounded answers** - contextual responses with citations to the user's own entries
+- **AI infrastructure** - embeddings, vector search, orchestration, safety guardrails, evaluation, and observability
 
 The project evolved from three separate applications into a single integrated platform. The original repositories remain available as part of the development history:
 - [AI Injury Journal](https://github.com/sabrahermassi/injury-journal-ai): An AI-powered injury journal assistant exploring RAG, embeddings, semantic search, agent orchestration, safety guardrails, evaluation, and AI observability.
