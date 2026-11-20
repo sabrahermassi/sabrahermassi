@@ -2,19 +2,19 @@
 Senior Full-Stack Software Engineer with 10+ years of experience building scalable backend systems, cloud-native applications, APIs, and AI-powered solutions.
 
 ## 🔭 What I'm working on
-### 🩹 [AI-Powered Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal)
-An AI-powered personal injury tracking platform combining:
-- **Injury tracking** - symptoms, treatments, medical history, and doctor visits
-- **AI extraction** - turning unstructured injury notes into structured information using LLMs
-- **AI assistant & RAG** - semantic search and retrieval over personal injury history
-- **Grounded answers** - contextual responses with citations to the user's own entries
-- **AI infrastructure** - embeddings, vector search, orchestration, safety guardrails, evaluation, and observability
+### 🩹 [Injury Journal AI Agent](https://github.com/sabrahermassi/injury-journal-ai-agent)
 
-The project evolved from three separate applications into a single integrated platform. The original repositories remain available as part of the development history:
-- [AI Injury Journal](https://github.com/sabrahermassi/injury-journal-ai): An AI-powered injury journal assistant exploring RAG, embeddings, semantic search, agent orchestration, safety guardrails, evaluation, and AI observability.
-- [AI Injury Extractor](https://github.com/sabrahermassi/ai-injury-extractor): An AI-powered application that extracts structured injury information from natural language using LLMs, AWS serverless architecture, and DynamoDB.
-- [Personal Injury Tracker](https://github.com/sabrahermassi/injury_journal): A healthcare navigation platform to help users organize injury history, symptoms, treatments, and medical information.
+An AI agent that searches, answers and acts on personal injury records. It turns messy notes into structured data, answers questions with citations verified word for word, refuses when the notes don't hold the answer, and takes actions through tools with human approval for every change. Every design choice is measured by experiment, not guessed: 14/20 correct answers with verified quotes, and 8/8 unanswerable questions refused.
 
+| Project | What it adds | Status |
+| --- | --- | --- |
+| 1. Semantic Notes Search | LLM extraction turns messy notes into validated fields; hybrid search combines field filters with embeddings and a measured score threshold | ✅ Done |
+| 2. Ask My Notes | RAG over long notes in PostgreSQL + pgvector; grounded answers with word-for-word verified citations; streamed answers, not-found refusals and input safety checks | ✅ Done |
+| 3. Advanced RAG Lab | Eval harness on a golden dataset; BM25 + vector hybrid search with fusion, reranking, query rewriting and an LLM faithfulness judge | 🚧 Next |
+| 4. AI Assistant With Tools | Tool-calling agent loop with memory, guarded text-to-SQL, human approval for writes, a validator and repair loop, and prompt-injection tests | Planned |
+| 5. Production RAG System | RabbitMQ queue with retries and dead-letter queue, idempotent ingestion, OpenTelemetry tracing, semantic cache, authentication and evals in CI | Planned |
+
+**Stack:** TypeScript (Express, Zod, React), Python (FastAPI, Pydantic), PostgreSQL + pgvector, Ollama, Docker, GitHub Actions
 ### 🧴 [Skincare Recommendation](https://github.com/sabrahermassi/skincare-recommendation)
 An AI-powered skincare app that analyzes product ingredients to help users understand how compatible a product appears with their skin and identify potential ingredient-related concerns.
 The app supports informed decisions without diagnosing, prescribing, or guaranteeing outcomes.
